@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/aws.giff" alt="aws" width="100" height="100"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/aws.gif" alt="aws" width="100" height="100"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="100" height="100"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/gcp.png" alt="gcp" width="120" height="100"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/python.jfif" alt="python" width="100" height="100"/></a>
