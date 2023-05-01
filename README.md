@@ -27,7 +27,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/linux.jfif" alt="linux" width="100" height="100"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/git.png" alt="git" width="100" height="100"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/docker.gif" alt="docker" width="100" height="100"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/terrraform.png" alt="terraform" width="100" height="100"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/terrraform-removebg-preview.png" alt="terraform" width="100" height="100"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="100" height="100"/></a>
   <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/cloud formation.png" alt="cloudFormation" width="100" height="100"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/html.png" alt="html5" width="100" height="100"/></a>
