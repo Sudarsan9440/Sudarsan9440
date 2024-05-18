@@ -4,7 +4,7 @@
 
 - 🌱 I’m working as a **Cloud Data Engineer,**
 
-- 💬 Ask me about **Cloud & Data ( AWS, Azure and GCP )**
+- 💬 Ask me about **Cloud & Data**
 
 - 📫 How to reach me **siddhugowada@gmail.com**
 
@@ -23,6 +23,8 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/aws.gif" alt="aws" width="100" height="100"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/azure-removebg-preview.png" alt="azure" width="100" height="100"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/gcp-removebg-preview.png" alt="gcp" width="120" height="100"/></a>
+  <a href="https://apachespark.org" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/apache_spark.png" alt="gcp" width="120" height="100"/></a>
+
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/python.gif" alt="python" width="100" height="100"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/linux.jfif" alt="linux" width="100" height="100"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/git.png" alt="git" width="100" height="100"/></a>
