@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer , Multi Cloud☁️ guy from India</h3>
 <img  align="right" alt="DevOps" width ="300" src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/bigdata.jpg">
 
-- 🌱 I’m working as a **Cloud Data Engineer,**
+- 🌱 I’m a **Cloud Data Engineer,**
 
 - 💬 Ask me about **Cloud & Data**
 
