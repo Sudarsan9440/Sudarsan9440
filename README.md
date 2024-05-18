@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SUDARSAN RAGHURAM KETHA</h1>
 <h3 align="center">A passionate Data Engineer , Multi Cloud☁️ guy from India</h3>
-<img align="right" alt="DevOps" width ="400" src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/DevOps-Career-Things.jpg">
+<img align="right" alt="DevOps" width ="400" src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/bigdata.jpg">
 
-- 🌱 I’m currently learning **Data Engineering,**
+- 🌱 I’m working as a **Cloud Data Engineer,**
 
 - 💬 Ask me about **Cloud & Data ( AWS, Azure and GCP )**
 
