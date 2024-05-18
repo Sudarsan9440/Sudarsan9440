@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SUDARSAN RAGHURAM KETHA</h1>
-<h3 align="center">A passionate DevOps Practitioner , Multi Cloud☁️ guy from India</h3>
+<h3 align="center">A passionate Data Engineer , Multi Cloud☁️ guy from India</h3>
 <img align="right" alt="DevOps" width ="400" src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/DevOps-Career-Things.jpg">
 
 - 🌱 I’m currently learning **DevOps methologies,**
 
-- 💬 Ask me about **Cloud & DevOps ( AWS, Azure and GCP )**
+- 💬 Ask me about **Cloud & Data ( AWS, Azure and GCP )**
 
 - 📫 How to reach me **siddhugowada@gmail.com**
 
