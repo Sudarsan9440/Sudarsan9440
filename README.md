@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUDARSAN RAGHURAM KETHA</h1>
 <h3 align="center">A passionate Data Engineer , Multi Cloud☁️ guy from India</h3>
-<img align="right" alt="DevOps" width ="400" src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/bigdata.jpg">
+<img  align="right" alt="DevOps" width ="300" src="https://github.com/Sudarsan9440/Sudarsan9440/blob/main/bigdata.jpg">
 
 - 🌱 I’m working as a **Cloud Data Engineer,**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **siddhugowada@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sudarsan9440/Sudarsan9440/blob/main/SUDARSAN_KETHA_RESUME.pdf](https://github.com/Sudarsan9440/Sudarsan9440/blob/main/SUDARSAN_KETHA_RESUME.pdf)
+- 📄 Know about my experiences [SUDARSAN_KETHA_RESUME](https://github.com/Sudarsan9440/Sudarsan9440/blob/main/SUDARSAN_KETHA_RESUME.pdf)
 
 - ⚡ Fun fact **I think I am funny😎**
 
